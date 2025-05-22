@@ -32,10 +32,10 @@ This repository hosts the source code for **Netflix Clone**, a full-featured mov
 ## 📸 Screenshots
 
 ### 🏠 Home Page  
-![Home](https://github.com/tuongroth/screenshot/blob/main/assets/homepage.png)
+![Home](https://github.com/tuongroth/screenshot/blob/main/assets/homepage1.png)
 
 ### 🏠 Home Page - Variant  
-![Home1](https://github.com/tuongroth/screenshot/blob/main/assets/homepage1.png)
+![Home1](https://github.com/tuongroth/screenshot/blob/main/assets/moviesection.png)
 
 ### 🔐 Login Page  
 ![Login](https://github.com/tuongroth/screenshot/blob/main/assets/login.png)
